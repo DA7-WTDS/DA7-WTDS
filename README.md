@@ -110,13 +110,15 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DA7-WTDS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DA7-WTDS&theme=tokyonight" alt="GitHub Stats" height="195" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DA7-WTDS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DA7-WTDS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html" alt="Top Languages" height="155" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DA7-WTDS&theme=tokyonight" alt="Top Languages" height="195" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DA7-WTDS&theme=tokyonight" alt="Most Used Languages" height="195" />
 </p>
 
 ---
