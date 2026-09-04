@@ -1,16 +1,12 @@
-<div align="center">
-
 ```csharp
 public class YahiaAhmed : BackendEngineer
 {
     public string Role => "Backend Software Engineer";
-    public string Education => "Software Engineering graduate @ MSA University";
+    public string Education => "4th-Year Software Engineering @ MSA University";
     public string Focus => "Modular, scalable systems";
     public string[] Stack => new[] { "C#", ".NET", "Java", "PostgreSQL" };
 }
 ```
-
-</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yahia-eltouny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,7 +17,7 @@ public class YahiaAhmed : BackendEngineer
 
 ## About Me
 
-Backend engineer focused on breaking down complex systems into clean, modular pieces. Currently working in .NET and Java.
+Backend engineer focused on breaking down complex systems into clean, modular pieces. Currently working in .NET and Java, with a focus on system design.
 
 ## Tech Stack
 
