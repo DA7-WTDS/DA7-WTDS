@@ -1,7 +1,8 @@
-<div align="left">
-  <h1>Yahia Ahmed</h1>
-  <h3>Backend Software Engineer | Building Modular & Scalable Systems</h3>
-</div>
+<p align="center">
+  <img src="Assets/intro.svg" alt="Intro Banner" />
+</p>
+
+
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
