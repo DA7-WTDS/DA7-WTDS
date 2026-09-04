@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yahia-eltouny"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:yahia.ahmed19800@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DA7-WTDS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 <br/>
@@ -42,7 +42,7 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 
 ## 📌 Featured Projects
 
-### 🏦 [kyx](https://github.com/YOUR_GITHUB_USERNAME/kyx) — Modular Monolith
+### 🏦 [kyx](https://github.com/DA7-WTDS/kyx) — Modular Monolith
 > A financial reserving system for football pitches built with **C# / .NET**.
 > Engineered with a focus on domain isolation, leveraging **RabbitMQ** for async messaging, **Redis** for high-speed caching, and **PostgreSQL** for strict relational data management.
 
@@ -50,7 +50,7 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 
 ---
 
-### 🚦 [Traffic Radar Engine](https://github.com/YOUR_GITHUB_USERNAME/traffic-radar-engine) — Java System
+### 🚦 [Traffic Radar Engine](https://github.com/DA7-WTDS/traffic-radar-engine) — Java System
 > A Java-based rules engine implementing strict **interface contracts** and **data records** to isolate and evaluate complex traffic observation logic.
 
 `Java` `OOP` `Interface Design` `Records`
@@ -70,13 +70,13 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DA7-WTDS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="195" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DA7-WTDS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DA7-WTDS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="155" />
 </p>
 
 ---
