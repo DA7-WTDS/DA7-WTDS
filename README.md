@@ -30,37 +30,49 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-      <br/><sub><b>C#</b></sub>
+    <td align="center" width="160"><b>🖥️&nbsp; Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" title="C#"/>
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++"/>
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java"/>
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash"/>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" />
-      <br/><sub><b>.NET</b></sub>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧&nbsp; Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" title=".NET"/>
+      <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot"/>
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br/><sub><b>Java</b></sub>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️&nbsp; Data &amp; Messaging</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB"/>
+      <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" title="Redis"/>
+      <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" title="RabbitMQ"/>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-      <br/><sub><b>PostgreSQL</b></sub>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️&nbsp; Infra &amp; Ops</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"/>
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes"/>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
-      <br/><sub><b>Redis</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" />
-      <br/><sub><b>RabbitMQ</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-      <br/><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br/><sub><b>Git</b></sub>
+  </tr>
+  <tr>
+    <td align="center"><b>💻&nbsp; Environment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
     </td>
   </tr>
 </table>
