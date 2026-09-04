@@ -91,10 +91,13 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 
 ---
 
-### 🚦 [Traffic Radar Engine](https://github.com/DA7-WTDS/traffic-radar-engine) — Java System
-> A Java-based rules engine implementing strict **interface contracts** and **data records** to isolate and evaluate complex traffic observation logic.
+### 🤖 [QuantWise](https://github.com/DA7-WTDS/Graduation-project) — AI-Powered Stock Advisory Platform
+> Delivers personalised **BUY / SELL / HOLD** recommendations to retail investors — no financial expertise required.
+> A **gradient-boosted** cross-sectional ranking model scores the investable universe, **FinBERT** + analyst data supply a sentiment cross-check, and a deterministic risk-grading engine grades the result.
+> A constrained **Google Gemini** LLM then translates pre-validated signals into plain-language, risk-tailored advice — it never forecasts, ranks, or invents a number.
+> Aligned with **UN SDG 9** (Industry & Innovation) and **UN SDG 10** (Reduced Inequalities)
 
-`Java` `OOP` `Interface Design` `Records`
+`Python` `Machine Learning` `FinBERT` `Gradient Boosting` `Google Gemini` `NLP` `Fintech`
 
 ---
 
