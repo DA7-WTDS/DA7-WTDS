@@ -24,6 +24,15 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 
 ---
 
+## 💼 Experience
+
+| Organization | Role |
+|---|---|
+| **Microsystems Egypt** | Backend Engineering Intern |
+| **Outlier** | AI Training Contractor (Freelance) |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -99,16 +108,7 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 
 `Python` `Machine Learning` `FinBERT` `Gradient Boosting` `Google Gemini` `NLP` `Fintech`
 
----
 
-## 💼 Experience
-
-| Organization | Role |
-|---|---|
-| **Microsystems Egypt** | Backend Engineering Intern |
-| **Outlier** | AI Training Contractor (Freelance) |
-
----
 
 ## 📊 GitHub Analytics
 
