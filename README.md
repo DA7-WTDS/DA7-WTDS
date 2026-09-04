@@ -98,26 +98,25 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
 
 ---
 
-## 💼 Experience & Assessments
+## 💼 Experience
 
-| Organization | Role / Status |
+| Organization | Role |
 |---|---|
-| **Fawry** | Technical Evaluation — Java Traffic Radar Engine |
-| **Thndr** | Fintech Backend Assessment Candidate |
-| **I-Score** | Summer Internship Candidate |
+| **Microsystems Egypt** | Backend Engineering Intern |
+| **Outlier** | AI Training Contractor (Freelance) |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DA7-WTDS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DA7-WTDS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DA7-WTDS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DA7-WTDS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DA7-WTDS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html" alt="Top Languages" height="155" />
 </p>
 
 ---
