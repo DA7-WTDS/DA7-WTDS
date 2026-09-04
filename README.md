@@ -2,45 +2,85 @@
   <img src="Assets/intro.svg" alt="Intro Banner" />
 </p>
 
-
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
-## 🚀 About Me
+<br/>
 
-* 💻 **Backend Focus:** Specializing in Clean Architecture, DDD, and Microservices.
-* 🎓 **Education:** 4th-Year Software Engineering Student at MSA University.
-* ⚙️ **Current Trajectory:** Mastering advanced database indexing and system design for fintech environments.
-* 🎮 **Off-Screen:** Custom PC building, 5v5 football (holding CDM), and single-player RPG progression.
+---
+
+## 👨‍💻 About Me
+
+Backend Software Engineer focused on building **modular, scalable, and maintainable systems**.
+Currently a 4th-year Software Engineering student at **MSA University**, with a trajectory aimed at **fintech infrastructure** and **distributed systems**.
+
+- 🏗️ Building systems with **Clean Architecture** and **DDD** at the core
+- 🗄️ Strong focus on **database design**, **system design**, and building for scale
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <!-- This automatically generates clean, uniform icons for your stack -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,postgres,redis,rabbitmq,docker,git" alt="Tech Stack Icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,postgres,redis,rabbitmq,docker,git&theme=dark" alt="Tech Stack" />
 </p>
 
-## 📌 Featured Work
+| Layer | Technologies |
+|---|---|
+| **Languages** | C#, Java |
+| **Frameworks** | .NET, ASP.NET Core |
+| **Databases** | PostgreSQL, Redis |
+| **Messaging** | RabbitMQ |
+| **DevOps** | Docker, Git |
 
-> **kyx (Modular Monolith)**
-> A financial reserving system for football pitches. Designed with C# and .NET, leveraging RabbitMQ for asynchronous messaging, Redis for high-speed caching, and PostgreSQL for strict data management.
+---
 
-> **Traffic Radar Engine**
-> A Java-based system implementing strict interface logic and data records to isolate complex observation rules.
+## 📌 Featured Projects
 
-## 💼 Experience & Milestones
+### 🏦 [kyx](https://github.com/YOUR_GITHUB_USERNAME/kyx) — Modular Monolith
+> A financial reserving system for football pitches built with **C# / .NET**.
+> Engineered with a focus on domain isolation, leveraging **RabbitMQ** for async messaging, **Redis** for high-speed caching, and **PostgreSQL** for strict relational data management.
 
-* **Teleperformance Egypt** — Corporate Operations 
-* **Fawry** — Technical Evaluation Candidate (Java Traffic Radar Engine)
-* **Thndr** — Fintech Backend Assessment Candidate
-* **I-Score** — Summer Internship Candidate
+`C#` `.NET` `PostgreSQL` `Redis` `RabbitMQ` `Clean Architecture` `DDD`
+
+---
+
+### 🚦 [Traffic Radar Engine](https://github.com/YOUR_GITHUB_USERNAME/traffic-radar-engine) — Java System
+> A Java-based rules engine implementing strict **interface contracts** and **data records** to isolate and evaluate complex traffic observation logic.
+
+`Java` `OOP` `Interface Design` `Records`
+
+---
+
+## 💼 Experience & Assessments
+
+| Organization | Role / Status |
+|---|---|
+| **Fawry** | Technical Evaluation — Java Traffic Radar Engine |
+| **Thndr** | Fintech Backend Assessment Candidate |
+| **I-Score** | Summer Internship Candidate |
+
+---
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="195" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="155" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with precision · Engineered to scale</sub>
 </p>
