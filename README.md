@@ -1,41 +1,45 @@
-```csharp
-public class YahiaAhmed : BackendEngineer
-{
-    public string Role => "Backend Software Engineer";
-    public string Education => "4th-Year Software Engineering @ MSA University";
-    public string Focus => "Modular, scalable systems";
-    public string[] Stack => new[] { "C#", ".NET", "Java", "PostgreSQL" };
-}
-```
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yahia-eltouny"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:yahia.ahmed19800@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-## About Me
-
-Backend engineer focused on breaking down complex systems into clean, modular pieces. Currently working in .NET and Java, with a focus on system design.
-
-## Tech Stack
+<div align="left">
+  <h1>Yahia Ahmed</h1>
+  <h3>Backend Software Engineer | Building Modular & Scalable Systems</h3>
+</div>
 
 <p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## 🚀 About Me
+
+* 💻 **Backend Focus:** Specializing in Clean Architecture, DDD, and Microservices.
+* 🎓 **Education:** 4th-Year Software Engineering Student at MSA University.
+* ⚙️ **Current Trajectory:** Mastering advanced database indexing and system design for fintech environments.
+* 🎮 **Off-Screen:** Custom PC building, 5v5 football (holding CDM), and single-player RPG progression.
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <!-- This automatically generates clean, uniform icons for your stack -->
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,postgres,redis,rabbitmq,docker,git" alt="Tech Stack Icons" />
 </p>
 
-## Featured Projects
+## 📌 Featured Work
 
-**kyx — Modular Monolith**
-A financial reservation system for football pitches, built in C# / .NET. Uses RabbitMQ for asynchronous messaging, Redis for caching, and PostgreSQL for transactional data.
+> **kyx (Modular Monolith)**
+> A financial reserving system for football pitches. Designed with C# and .NET, leveraging RabbitMQ for asynchronous messaging, Redis for high-speed caching, and PostgreSQL for strict data management.
 
-**Traffic Radar Engine**
-A Java system that models strict interface contracts and data records to isolate complex observation rules — built as a technical assessment project, since expanded into a personal reference implementation.
+> **Traffic Radar Engine**
+> A Java-based system implementing strict interface logic and data records to isolate complex observation rules.
 
-## GitHub Stats
+## 💼 Experience & Milestones
+
+* **Teleperformance Egypt** — Corporate Operations 
+* **Fawry** — Technical Evaluation Candidate (Java Traffic Radar Engine)
+* **Thndr** — Fintech Backend Assessment Candidate
+* **I-Score** — Summer Internship Candidate
+
+## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DA7-WTDS&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DA7-WTDS&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
