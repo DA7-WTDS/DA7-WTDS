@@ -115,11 +115,6 @@ Currently a 4th-year Software Engineering student at **MSA University**, with a 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DA7-WTDS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DA7-WTDS&theme=tokyonight" alt="Top Languages" height="195" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DA7-WTDS&theme=tokyonight" alt="Most Used Languages" height="195" />
-</p>
 
 ---
 
