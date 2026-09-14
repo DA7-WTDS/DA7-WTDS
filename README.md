@@ -16,8 +16,8 @@
 
 ## 👨‍💻 About Me
 
-Backend Software Engineer focused on building **modular, scalable, and maintainable systems**.
-Currently a 4th-year Software Engineering student at **MSA University**, with a trajectory aimed at **fintech infrastructure** and **distributed systems**.
+Backend Software Engineer specialized in ASP.NET Core focused on building **modular, scalable, and maintainable systems**.
+a Software Engineering Graduate from **MSA University**.
 
 - 🏗️ Building systems with **Clean Architecture** and **DDD** at the core
 - 🗄️ Strong focus on **database design**, **system design**, and building for scale
