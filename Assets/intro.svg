@@ -40,7 +40,7 @@
   <!-- line 4 -->
   <g clip-path="url(#clip4)">
     <text x="46" y="141" font-size="14">
-      <tspan fill="#ff7b72">public</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#ff7b72">string</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#d2a8ff">Education</tspan><tspan fill="#c9d1d9"> =&gt; </tspan><tspan fill="#a5d6ff">"4th-Year Software Engineering @ MSA University"</tspan><tspan fill="#c9d1d9">;</tspan>
+      <tspan fill="#ff7b72">public</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#ff7b72">string</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#d2a8ff">Education</tspan><tspan fill="#c9d1d9"> =&gt; </tspan><tspan fill="#a5d6ff">"Software Engineering Graduate @ MSA University"</tspan><tspan fill="#c9d1d9">;</tspan>
     </text>
   </g>
 
