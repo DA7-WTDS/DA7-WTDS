@@ -92,7 +92,7 @@ a Software Engineering Graduate from **MSA University**.
 
 ## 📌 Featured Projects
 
-### 🏦 [kyx](https://github.com/DA7-WTDS/kyx) — Modular Monolith
+### 🏦 [kyx](https://github.com/RealOrangeKun/kyx-backend) — Modular Monolith
 > A financial reserving system for football pitches built with **C# / .NET**.
 > Engineered with a focus on domain isolation, leveraging **RabbitMQ** for async messaging, **Redis** for high-speed caching, and **PostgreSQL** for strict relational data management.
 
